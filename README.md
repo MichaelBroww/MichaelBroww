@@ -18,6 +18,6 @@
 
 ### About me
 - 🌱 I’m currently learning **Data Science, Python, SQL**
-- 📄 Know about my experiences [Profil](https://github.com/MichaelBroww/Profil.git)
+- 📄 Know about my experiences [Profile](https://github.com/MichaelBroww/Profil.git)
 - 📫 Reach me by [email](mailto:pomelow.m@ya.ru)
 - 🌍 I learn English
