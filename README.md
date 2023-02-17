@@ -5,12 +5,6 @@
 
 
 <div id="socials" align="center">
-	<a href="https://stepik.org/users/46221791/certificates">
-		<img src="https://img.shields.io/badge/Stepik-blue?style=for-the-badge&logo=Stepik&logoColor=white" alt="Stepik"/>
-	</a>
-	<a href="https://www.kaggle.com/michaelpomelov">
-		<img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
-	</a>
 	<a href="https://t.me/Michaelbrau">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
