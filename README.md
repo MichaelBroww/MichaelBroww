@@ -9,6 +9,11 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
+<div id="socials" align="center">
+	<a href="https://stepik.org/cert/1961756">
+		<img src="https://stepik.org/static/frontend/topbar_logo.svg" alt="Stepik"/>
+	</a>
+</div>
 
 ### About me
 - 🌱 I’m currently learning **Data Science, Python, SQL**
